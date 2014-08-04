@@ -6,5 +6,9 @@
 	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/SpeechSynthesisTest/cmulex.jar"/>
 	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/SpeechSynthesisTest/en_us.jar"/>
 	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/SpeechSynthesisTest/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/email jars/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/email jars/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/email jars/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/student/Desktop/christians/javamail1_4_7/javamail-1.4.7/mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
