@@ -4,6 +4,7 @@
 package speechsynthesis;
 import java.io.*;
 import java.util.*;
+
 import javax.mail.*;
 import javax.mail.internet.*;
 import javax.activation.*;
@@ -161,16 +162,14 @@ public class MailReader
          }
      }
      System.out.write(data);
-     String inputStreamString = new Scanner(is,"UTF-8").useDelimiter("\\A").next();
-     System.out.println(inputStreamString);
-     
+	    
 } 
 }
 
     	
 
 
-  static void main(String args[])
+ public static void main(String args[])
  {
  new MailReader();
  }
